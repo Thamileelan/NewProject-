@@ -4,6 +4,6 @@
  int a=10;
  int b=15;
  c=a+b;
- printf("%d",d);
+ printf("%d",c);
  }
  
