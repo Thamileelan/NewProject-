@@ -3,7 +3,7 @@
  {
  int a=10;
  int b=15;
- c=a+b;
+ c=a*b;
 
  printf("%d",c);
 
